@@ -1,5 +1,6 @@
 The description and main result of this work can be found in "phase_interference_in_QRK.jpynb".
 
+(The evolution of quantum random walk with Hadamard coin in 1D)
 ![mygif](https://user-images.githubusercontent.com/29524895/114307270-df84b200-9aac-11eb-9a89-21b3595e8328.gif)
 
 # QCHack_Quantum walk with phase kickback
