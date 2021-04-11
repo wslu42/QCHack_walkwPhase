@@ -4,6 +4,10 @@ Here's a quick video presentation for our results.
 
 https://youtu.be/rlU0DNBzNMs
 
+The presentation file.
+
+https://1drv.ms/p/s!AlWkfUhLa3QogmemXudCqZ0l6Ofc
+
 (The evolution of quantum random walk with Hadamard coin in 1D)
 
 ![mygif](https://user-images.githubusercontent.com/29524895/114307270-df84b200-9aac-11eb-9a89-21b3595e8328.gif)
