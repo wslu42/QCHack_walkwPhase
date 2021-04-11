@@ -1,4 +1,6 @@
-In this work, we would like to use quantum random walk to study phase interference, and a complete description and main result of this work can be found in "phase_interference_in_QRK.jpynb".
+In this work, we would like to use quantum random walk to study phase interference, and a complete description and main result of this work can be found in ![phase_interference_in_QRK.jpynb](https://github.com/wslu42/QCHack_walkwPhase/blob/main/phase_interference_in_QRK.ipynb).
+
+![Here's a quick demo for our results:](https://youtu.be/rlU0DNBzNMs)
 
 (The evolution of quantum random walk with Hadamard coin in 1D)
 
