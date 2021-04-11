@@ -14,7 +14,7 @@ In addition to the deviation from Gaussian, in this work we focus more on the as
 
 In the Hadamard coin operator, the rightwards path interferes more destructively as it is multiplied by -1, however, the leftwards path undergoes more constructive interference and the system tends to take steps towards the left. To reach symmetric results, both base vectors will start in a superposition of states (between |↑> and |↓>). Another way to reach symmetry is use a different coin operator which doesn’t bias the coin towards a certain base vector.
 
-The entire effect is similar to the idea of phase kickback [ref 5]
+The entire effect is similar to the idea of phase kickback [[ref 5](https://qiskit.org/textbook/ch-gates/phase-kickback.html)]
 
 The circuit representation of this Y circuit seems to be straightforward, but as we will show in this work some other careful treatment (in addition to converting H to Y) should be done to fully employ the symmetric treatment in terms of phase on the Bloch sphere.
 
