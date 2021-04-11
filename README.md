@@ -29,20 +29,6 @@ In this notebook, we use a Hadamard gate for executing the coin function since i
 
 [![Build Status](https://i.ibb.co/yQv7k3L/image.png)
 
-There are two kinds of random walks, continuous and discrete, and in this notebook we will use the discrete framework. In the discrete, unitary operations are made of coin and shift operators  𝑈=𝑆𝐶  which work in a state space.
-
-It is represented by an arbitrary undirected graph  𝐺(𝑉,𝐸)  where  𝑉=𝑣1,𝑣2,..𝑣𝑛  as nodes on the graph and  𝐸=(𝑣𝑥,𝑣𝑦),(𝑣𝑖,𝑣𝑗)…  as edges that combine different nodes together.
-
-The quantum walk extends into a position space where each node  𝑣𝑖  has a certain valency  𝑑𝑖  and is split into  𝑑𝑖  subnodes. The shifting operator then acts as  𝑆(𝑣𝑖,𝑎𝑖)=(𝑣𝑗,𝑎𝑗)  and with the coin operator, are unitary gates which combine the probability amplitudes with individual subnodes under each node.
-
-A unitary of  𝑣𝑖  with valency  𝑑𝑖  can be represented as  (𝑑𝑖×𝑑𝑖) . The total state of system is defined by the Hilbert space
-
-𝐻=𝐻𝑐+𝐻𝑝
- 
-Where  𝐻𝐶  is the coin Hilbert space and  𝐻𝑃  is the position Hilbert space.
-
-
-
 
 
 ## The Coin Operator
