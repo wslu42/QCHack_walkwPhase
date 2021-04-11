@@ -1,3 +1,5 @@
+The description and main result of this work can be found in "phase_interference_in_QRK.jpynb".
+
 # QCHack_Quantum walk with phase kickback
 Use quantum random walk to study phase interference
 ## Introduction
