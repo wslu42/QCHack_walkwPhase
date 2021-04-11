@@ -1,6 +1,7 @@
 # QCHack_Quantum walk with phase kickback
 Use quantum random walk to study phase interference
-
+## Introduction
+In this hackathon, it is proposed that in quantum circuits, the "correct" answer may cause constructive interference due to the phase, while the "wrong" answer will cause destructive interference. Therefore, we use the random walk of the toe to explain the phase. First of all, quantum random walk is a mathematical statistical model that uses the properties of quantum mechanics to generate random processes. In the experiment, we simulated classical random walk and quantum random walk and made a comparison between the two, but quantum random walk Because of phase interference, the result of walking is not fair but tends to be biased to a certain side. In order to solve the problem of phase interference, we proposed the concept of phase kickback and made the Y-gate coin and Hadamard coin to explain that phase interference will affect the result of quantum random walk
 
 ## Random walk
 The figure below shows a simple random walk type
@@ -16,6 +17,7 @@ For this system:  𝑝+𝑞=1 .
 
 
 ## Quantum Walk
+[![Build Status](https://i.ibb.co/3Ry0hXs/image.png)
 A quantum walk is the "quantum version" of a classical random walk. This means the coin function will be a Unitary gate ( 𝑈(2) ) which is non-random and reversible:
 
                                                            𝑝+𝑞=𝑈∈𝑈(2)
@@ -49,5 +51,10 @@ The rightwards path interferes more destructively as it is multiplied by -1, how
 
 
 
+## Quantum Walk 
+A quantum walk is the "quantum version" of a classical random walk. This means the coin function will be a Unitary gate ($U(2)$) which is non-random and reversible:
 
+$$p+q = U ∈ U(2)$$
+
+In this notebook, we use a Hadamard gate for executing the coin function since it puts our qubits in a state of superposition, allowing for the  simulation of a coin based probability:
 
