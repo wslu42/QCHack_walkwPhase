@@ -52,5 +52,8 @@ The rightwards path interferes more destructively as it is multiplied by -1, how
 
 [![Build Status](https://i.ibb.co/Jd1L9yF/image.png)
 
+## Phase kickbback
 
+When we use control gate,there will be a problem called Phase kickback.Such as :
+[![Build Status](https://miro.medium.com/max/875/1*XbUpprATbTvB_nGyZfcU1A.png)
 
